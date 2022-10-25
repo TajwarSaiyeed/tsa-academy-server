@@ -2,42 +2,42 @@
     {
         "id" : 1,
         "name" : "Html",
-        "desc" : "Hyper Text Markup Language",
+        "desc" : "The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets and scripting languages such as JavaScript",
         "img" : "https://i.ibb.co/M8BcM7j/html.png"
 
     },
     {
         "id" : 2,
         "name" : "CSS",
-        "desc" : "Cascading Style Sheet",
+        "desc" : "Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript",
         "img" : "https://i.ibb.co/0n9zfB3/css.png"
 
     },
     {
         "id" : 3,
         "name" : "Bootstrap",
-        "desc" : "Design",
+        "desc" : "Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. It contains HTML, CSS and JavaScript-based design templates for typography, forms, buttons, navigation, and other interface components",
         "img" : "https://i.ibb.co/LC8w47K/bootstrap.png"
 
     },
     {
         "id" : 4,
         "name" : "Tailwind",
-        "desc" : "Design",
+        "desc" : "Tailwind CSS is an open source CSS framework. The main feature of this library is that, unlike other CSS frameworks like Bootstrap, it does not provide a series of predefined classes for elements such as buttons or tables",
         "img" : "https://i.ibb.co/BBgVy91/tailwind.png"
 
     },
     {
         "id" : 5,
         "name" : "Javascript",
-        "desc" : "Scripting Language",
+        "desc" : "JavaScript, often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for webpage behavior, often incorporating third-party libraries",
         "img" : "https://i.ibb.co/N6C6f6y/javascript.png"
 
     },
     {
         "id" : 6,
         "name" : "React",
-        "desc" : "Javascript",
+        "desc" : "React is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta and a community of individual developers and companies",
         "img" : "https://i.ibb.co/x163x6N/react.png"
 
     }
